@@ -1,0 +1,14 @@
+Project Name: Right-Angled Triangle Pattern
+
+Description:
+This C++ program generates a right-angled triangle pattern using asterisks (*).
+The user specifies the number of rows, and the program prints a triangle where each 
+row contains an increasing number of asterisks corresponding to the row number.
+
+Example Output If the user enters 5 as the number of rows, the output will be:
+
+*
+**
+***
+****
+*****

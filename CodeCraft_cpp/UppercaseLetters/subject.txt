@@ -1,0 +1,6 @@
+Project Name: Extract Uppercase Letters
+
+Description:
+This is a simple C++ program that extracts and displays all uppercase letters from a user-provided paragraph.
+The program reads an entire line of text, identifies the uppercase letters, and outputs them as a single string.
+If no uppercase letters are found, it informs the user accordingly.

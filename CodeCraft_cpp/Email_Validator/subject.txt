@@ -1,0 +1,7 @@
+Project Name: Email Validator
+
+Description:
+This is a simple C++ program that validates user input to ensure it contains exactly one '@' symbol, which is a basic requirement for an email address.
+The program repeatedly prompts the user to enter an email until the input meets the criteria. 
+If the input is missing the '@' symbol or contains more than one '@', the program provides appropriate feedback and asks the user to try again.
+Once a valid email is entered, the program confirms the input.

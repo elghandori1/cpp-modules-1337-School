@@ -1,0 +1,6 @@
+Project Name: Find Max and Min in a List
+
+Description:
+This C++ program allows the user to input a list of integers and then determines the maximum and minimum values in the list. 
+The program first prompts the user to specify the size of the list, followed by entering the numbers one by one.
+After collecting the input, it calculates and displays the maximum and minimum values from the list.

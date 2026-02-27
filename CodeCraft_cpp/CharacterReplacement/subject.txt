@@ -1,0 +1,6 @@
+Project Name: Character Replacement in a String
+
+Description:
+This C++ program allows the user to replace all occurrences of a specified character in a string with another character.
+The program first prompts the user to input a string, then asks for the character to replace and the replacement character.
+After processing the string, it outputs the modified string if changes were made or informs the user if no modifications were necessary.

@@ -1,0 +1,6 @@
+Project Name: Character Counter Without Spaces
+
+Description:
+This is a simple C++ program that calculates the number of non-space characters in a user-provided input string. 
+The program reads an entire line of text, including spaces, and counts only the characters that are not spaces. 
+It then outputs the result.
